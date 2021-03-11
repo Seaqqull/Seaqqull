@@ -20,4 +20,15 @@
 
 </details>
 
+<details>
+  <summary>:zap: University info</summary>
+  Full name: Dmytro Zherdiev   
+  <br />
+  <br />  
+  S-number: 20736
+  <br />  
+  Group: 13
+
+</details>
+
 [linkedin]: https://linkedin.com/in/Allims
